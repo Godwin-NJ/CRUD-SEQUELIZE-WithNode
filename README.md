@@ -12,3 +12,8 @@ Connected my Node JS API's to MySQl Database seamlessly using sequelize and perf
 
 ## Note 
 * Ensure to setup MySQL configuration in the config/db.config.js file 
+
+##### References
+* [Sequelize Official Docs](https://sequelize.org/)
+* https://www.bezkoder.com/node-js-express-sequelize-mysql/
+* https://www.geeksforgeeks.org/node-js-mysql-create-table-using-sequelize/ 
